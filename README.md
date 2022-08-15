@@ -3,7 +3,7 @@
 ## هذا الملف يحتوي على لوحة معلومات تم انشائها عن طريق برنامج (datapine) 
 
 صورة للوحة المعلومات:
-![image](https://github.com/Nourafk/Dashboard/blob/main/dashboard.png)
+![image](https://github.com/SalmanAlghamdi/Saudi-internet-exchange/blob/main/Dashboard.PNG)
 
 ## رابط لوحة المعلومات:
 https://public.datapine.com/#board/8XVaScRJNPgOPEe5MqTNK
